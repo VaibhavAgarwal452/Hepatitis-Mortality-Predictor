@@ -3,7 +3,7 @@
 ## Goal: 
 The Goal of this project is to make a classifier which predict the person will live or die because of hepatitis. It’s a ML app for hepatitis mortality predictor
 
-## introduction: 
+## Introduction: 
 This is the Machine Learning Project in which we try to predict the hepatitis mortality using the machine Learning Techniques.
 
 ### Technologies Used

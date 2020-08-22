@@ -44,5 +44,31 @@ By Doing Exploratory Data Analysis, we found that:
 In this section, we have perform the feature selection part means we decide that what features we use in our dataset for the model building. We perform feature selection by using SelectKBest, Strong Relation with the target,  Recursive Feature Elimination. 
 By performing Feature selection we found that the target is highly dependent on Protime, sgot, bilirubin, age
 
-![Feature Selection Image]
+![Feature Selection Image](Feature_selection.png)
+
+#### Built Model:
+
+In this section we built the model, By performing the folloeing techniques:
++	Feature & Labels
++	Train/Test/Split
++	Logistic Regression
++	Random Forest Classifier
++	Decision Tree Classifier
+By Performing the above techniques, we save our model with Joblib for the deployment of model in the web
+
+#### Interpret the Model:
+  We Interpret the model with the techniques like eli5, SHAP,Lime and then evaluate with the model with confusion matrix, classification report etc.
+
+*Confusion Matrix*:-
+
+![Confusion Matrix](confusion_matrix_.png)
+
+
+#### Production with Flask:
+	In this section, we made a website and deploy our model on the website.
+
+![Image 1](images/abc1.png)
+![Image 2](images/abc2.png)
+![Image 3](images/abc3.png)
+
 

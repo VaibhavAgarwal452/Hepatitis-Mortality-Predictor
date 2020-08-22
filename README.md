@@ -68,7 +68,9 @@ By Performing the above techniques, we save our model with Joblib for the deploy
 	In this section, we made a website and deploy our model on the website.
 
 ![Image 1](images/abc1.png)
+
 ![Image 2](images/abc2.png)
+
 ![Image 3](images/abc3.png)
 
 

@@ -69,7 +69,9 @@ By Performing the above techniques, we save our model with Joblib for the deploy
 
 ![Image 1](images/abc1.png)
 
+
 ![Image 2](images/abc2.png)
+
 
 ![Image 3](images/abc3.png)
 
